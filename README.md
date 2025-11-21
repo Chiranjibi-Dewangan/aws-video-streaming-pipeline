@@ -51,7 +51,6 @@ Setup instructions will be added as phases complete.
 ---
 
 ## 📁 Project Structure
-
 aws-video-streaming-pipeline/
 ├── infrastructure/ # IaC configurations
 │ ├── terraform/ # Terraform modules (future)
