@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # AWS Video Streaming Pipeline: End-to-End Distributed Media System
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)](https://aws.amazon.com)
@@ -51,6 +50,7 @@ Setup instructions will be added as phases complete.
 ---
 
 ## 📁 Project Structure
+
 aws-video-streaming-pipeline/
 ├── infrastructure/ # IaC configurations
 │ ├── terraform/ # Terraform modules (future)
@@ -123,10 +123,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
-- Portfolio: [Your Website]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+**Chiranjibi Dewangan**
+- Portfolio : https://chiranjibidewangan.com/
+- LinkedIn  : https://www.linkedin.com/in/chiranjibi-dewangan 
+- GitHub    : https://github.com/Chiranjibi-Dewangan
 
 ---
 
@@ -135,4 +135,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AWS Documentation and Well-Architected Framework
 - FFmpeg open-source community
 
-EOF
