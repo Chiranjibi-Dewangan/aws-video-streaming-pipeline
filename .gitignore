@@ -205,3 +205,44 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# AWS Credentials
+*.csv
+*credentials*
+.aws/
+
+# Environment variables
+.env
+.env.local
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sample videos (large files)
+sample-videos/*.mp4
+sample-videos/*.mov
+*.mp4
+*.mov
+
+# Outputs
+outputs/
+temp/
+

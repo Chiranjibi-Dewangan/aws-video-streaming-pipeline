@@ -68,6 +68,7 @@ aws-video-streaming-pipeline/
 ├── tests/ # Unit and integration tests
 └── sample-videos/ # Sample media files (not committed)
 
+
 ---
 
 ## 📚 Documentation
@@ -123,10 +124,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Chiranjibi Dewangan**
-- Portfolio : https://chiranjibidewangan.com/
-- LinkedIn  : https://www.linkedin.com/in/chiranjibi-dewangan 
-- GitHub    : https://github.com/Chiranjibi-Dewangan
+**[Your Name]**
+- Portfolio: [Your Website]
+- LinkedIn: [Your LinkedIn]
+- GitHub: [@YourUsername](https://github.com/YourUsername)
 
 ---
 
